@@ -1,0 +1,67 @@
+\t (00:00:01) allegro 16.5 P003 (v16-5-13C) i86
+\t (00:00:01)     Journal start - Tue Jul 16 17:32:19 2019
+\t (00:00:01)         Host=USER-PC User=user Pid=4728 CPUs=4
+\t (00:00:01) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Database opened: C:/Users/user/Desktop/work/PCB_Lib/pakegesimbol/atmega328p_TQFP.dra
+\i (00:00:03) trapsize 135
+\i (00:00:03) trapsize 133
+\i (00:00:04) trapsize 135
+\i (00:00:04) trapsize 152
+\i (00:00:04) generaledit 
+\i (00:00:05) trapsize 217
+\i (00:00:09) new 
+\i (00:00:13) newdrawfillin "menu_cancel"
+\i (00:00:13) generaledit 
+\i (00:00:15) new 
+\i (00:00:34) newdrawfillin "0716.brd" "Board"
+\t (00:00:34) Starting new design...
+\i (00:00:34) trapsize 510
+\i (00:00:35) trapsize 510
+\i (00:00:35) generaledit 
+\i (00:00:38) prmed 
+\i (00:00:40) setwindow form.prmedit
+\i (00:00:40) FORM prmedit design  
+\i (00:00:43) FORM prmedit size A4 
+\i (00:00:47) FORM prmedit long_name_size 255 
+\i (00:00:48) FORM prmedit x -50.000 
+\i (00:00:50) FORM prmedit y -50.000 
+\i (00:00:50) FORM prmedit display  
+\i (00:00:51) FORM prmedit display_plated_holes YES 
+\i (00:00:51) FORM prmedit display_non_plated_holes YES 
+\i (00:00:52) FORM prmedit display_thermal YES 
+\i (00:00:52) FORM prmedit display_fat_rats YES 
+\i (00:00:53) FORM prmedit waived_drc_on YES 
+\i (00:00:53) FORM prmedit via_labels YES 
+\i (00:00:54) FORM prmedit dp_driver_pins YES 
+\i (00:00:56) FORM prmedit display_grid YES 
+\i (00:00:57) FORM prmedit apply  
+\i (00:00:57) setwindow pcb
+\i (00:00:57) trapsize 510
+\i (00:00:57) setwindow form.prmedit
+\i (00:00:57) FORM prmedit done  
+\i (00:00:57) setwindow pcb
+\i (00:00:57) generaledit 
+\i (00:00:58) zoom out 1 
+\i (00:00:58) setwindow pcb
+\i (00:00:58) zoom out 16.349 9.454
+\i (00:00:58) trapsize 1020
+\i (00:00:59) trapsize 713
+\i (00:01:01) place manual 
+\i (00:01:03) setwindow form.plc_manual
+\i (00:01:03) FORM plc_manual advanced_settings  
+\i (00:01:04) FORM plc_manual library YES 
+\i (00:01:04) FORM plc_manual placement_list  
+\i (00:01:06) FORM plc_manual tree 'MULTISEL YES' 'Components by refdes' 
+\i (00:01:06) FORM plc_manual tree  'Components by refdes' 
+\i (00:01:07) FORM plc_manual tree 'MULTISEL YES' 'Components by refdes' 
+\i (00:01:07) FORM plc_manual tree 'MULTISEL YES' 'Components by refdes' 
+\i (00:01:08) FORM plc_manual tree 'MULTISEL YES' 'Components by refdes' 
+\i (00:01:10) FORM plc_manual categories Package symbols 
+\i (00:01:23) FORM plc_manual cancel  
+\i (00:01:23) setwindow pcb
+\i (00:01:23) generaledit 
+\i (00:01:25) exit 
+\e (00:01:25) Do you want to save the changes you made to 0716.brd?
+\i (00:01:26) fillin no 
+\t (00:01:27)     Journal end - Tue Jul 16 17:33:44 2019

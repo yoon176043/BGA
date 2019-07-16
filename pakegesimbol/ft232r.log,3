@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : FT232R.dra                                    )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Tue Jul 16 15:43:59 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/user/Desktop/work/PCB_Lib/pakegesimbol
+    Name      = ft232r.psm
+    User      = user
+    Machine   = USER-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

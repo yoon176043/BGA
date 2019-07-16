@@ -1,0 +1,493 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 16.5.0 p001Jul-16-2019 at 17:35:32}
+primitive 'DIPSOC-14X2_CAP_ATMEGA328_DIP_D';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    '6':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+    '7':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+    '8':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+    '9':
+      PIN_NUMBER='(9)';
+      PINUSE='UNSPEC';
+    '10':
+      PIN_NUMBER='(10)';
+      PINUSE='UNSPEC';
+    '11':
+      PIN_NUMBER='(11)';
+      PINUSE='UNSPEC';
+    '12':
+      PIN_NUMBER='(12)';
+      PINUSE='UNSPEC';
+    '13':
+      PIN_NUMBER='(13)';
+      PINUSE='UNSPEC';
+    '14':
+      PIN_NUMBER='(14)';
+      PINUSE='UNSPEC';
+    '28':
+      PIN_NUMBER='(28)';
+      PINUSE='UNSPEC';
+    '27':
+      PIN_NUMBER='(27)';
+      PINUSE='UNSPEC';
+    '26':
+      PIN_NUMBER='(26)';
+      PINUSE='UNSPEC';
+    '25':
+      PIN_NUMBER='(25)';
+      PINUSE='UNSPEC';
+    '24':
+      PIN_NUMBER='(24)';
+      PINUSE='UNSPEC';
+    '23':
+      PIN_NUMBER='(23)';
+      PINUSE='UNSPEC';
+    '22':
+      PIN_NUMBER='(22)';
+      PINUSE='UNSPEC';
+    '21':
+      PIN_NUMBER='(21)';
+      PINUSE='UNSPEC';
+    '20':
+      PIN_NUMBER='(20)';
+      PINUSE='UNSPEC';
+    '19':
+      PIN_NUMBER='(19)';
+      PINUSE='UNSPEC';
+    '18':
+      PIN_NUMBER='(18)';
+      PINUSE='UNSPEC';
+    '17':
+      PIN_NUMBER='(17)';
+      PINUSE='UNSPEC';
+    '16':
+      PIN_NUMBER='(16)';
+      PINUSE='UNSPEC';
+    '15':
+      PIN_NUMBER='(15)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='DIPSOC-14x2_CAP';
+    JEDEC_TYPE='atmega328_dip';
+    VALUE='DIPSOC-14x2_CAP';
+  end_body;
+end_primitive;
+primitive 'DIPSOC-16X2_ATMEGA328_TQFP_DIPS';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    '6':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+    '7':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+    '8':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+    '9':
+      PIN_NUMBER='(9)';
+      PINUSE='UNSPEC';
+    '10':
+      PIN_NUMBER='(10)';
+      PINUSE='UNSPEC';
+    '11':
+      PIN_NUMBER='(11)';
+      PINUSE='UNSPEC';
+    '12':
+      PIN_NUMBER='(12)';
+      PINUSE='UNSPEC';
+    '13':
+      PIN_NUMBER='(13)';
+      PINUSE='UNSPEC';
+    '14':
+      PIN_NUMBER='(14)';
+      PINUSE='UNSPEC';
+    '15':
+      PIN_NUMBER='(15)';
+      PINUSE='UNSPEC';
+    '16':
+      PIN_NUMBER='(16)';
+      PINUSE='UNSPEC';
+    '32':
+      PIN_NUMBER='(32)';
+      PINUSE='UNSPEC';
+    '31':
+      PIN_NUMBER='(31)';
+      PINUSE='UNSPEC';
+    '30':
+      PIN_NUMBER='(30)';
+      PINUSE='UNSPEC';
+    '29':
+      PIN_NUMBER='(29)';
+      PINUSE='UNSPEC';
+    '28':
+      PIN_NUMBER='(28)';
+      PINUSE='UNSPEC';
+    '27':
+      PIN_NUMBER='(27)';
+      PINUSE='UNSPEC';
+    '26':
+      PIN_NUMBER='(26)';
+      PINUSE='UNSPEC';
+    '25':
+      PIN_NUMBER='(25)';
+      PINUSE='UNSPEC';
+    '24':
+      PIN_NUMBER='(24)';
+      PINUSE='UNSPEC';
+    '23':
+      PIN_NUMBER='(23)';
+      PINUSE='UNSPEC';
+    '22':
+      PIN_NUMBER='(22)';
+      PINUSE='UNSPEC';
+    '21':
+      PIN_NUMBER='(21)';
+      PINUSE='UNSPEC';
+    '20':
+      PIN_NUMBER='(20)';
+      PINUSE='UNSPEC';
+    '19':
+      PIN_NUMBER='(19)';
+      PINUSE='UNSPEC';
+    '18':
+      PIN_NUMBER='(18)';
+      PINUSE='UNSPEC';
+    '17':
+      PIN_NUMBER='(17)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='DIPSOC-16x2';
+    JEDEC_TYPE='atmega328_TQFP';
+    VALUE='DIPSOC-16x2';
+  end_body;
+end_primitive;
+primitive 'DIPSOC-14X2/SM_ATMEGA328P_TQFP_';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    '6':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+    '7':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+    '8':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+    '9':
+      PIN_NUMBER='(9)';
+      PINUSE='UNSPEC';
+    '10':
+      PIN_NUMBER='(10)';
+      PINUSE='UNSPEC';
+    '11':
+      PIN_NUMBER='(11)';
+      PINUSE='UNSPEC';
+    '12':
+      PIN_NUMBER='(12)';
+      PINUSE='UNSPEC';
+    '13':
+      PIN_NUMBER='(13)';
+      PINUSE='UNSPEC';
+    '14':
+      PIN_NUMBER='(14)';
+      PINUSE='UNSPEC';
+    '28':
+      PIN_NUMBER='(28)';
+      PINUSE='UNSPEC';
+    '27':
+      PIN_NUMBER='(27)';
+      PINUSE='UNSPEC';
+    '26':
+      PIN_NUMBER='(26)';
+      PINUSE='UNSPEC';
+    '25':
+      PIN_NUMBER='(25)';
+      PINUSE='UNSPEC';
+    '24':
+      PIN_NUMBER='(24)';
+      PINUSE='UNSPEC';
+    '23':
+      PIN_NUMBER='(23)';
+      PINUSE='UNSPEC';
+    '22':
+      PIN_NUMBER='(22)';
+      PINUSE='UNSPEC';
+    '21':
+      PIN_NUMBER='(21)';
+      PINUSE='UNSPEC';
+    '20':
+      PIN_NUMBER='(20)';
+      PINUSE='UNSPEC';
+    '19':
+      PIN_NUMBER='(19)';
+      PINUSE='UNSPEC';
+    '18':
+      PIN_NUMBER='(18)';
+      PINUSE='UNSPEC';
+    '17':
+      PIN_NUMBER='(17)';
+      PINUSE='UNSPEC';
+    '16':
+      PIN_NUMBER='(16)';
+      PINUSE='UNSPEC';
+    '15':
+      PIN_NUMBER='(15)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='DIPSOC-14x2/SM';
+    JEDEC_TYPE='atmega328p_tqfp';
+    VALUE='DIPSOC-14x2/SM';
+  end_body;
+end_primitive;
+primitive 'ATMEGA128_ATMEGA128_(S1+S2+S3+S';
+  pin
+    'PEN':
+      PIN_NUMBER='(1,0,0,0)';
+      PINUSE='UNSPEC';
+    'RXD0/(PDI) PE0':
+      PIN_NUMBER='(2,0,0,0)';
+      PINUSE='UNSPEC';
+    '(TXD0/PDO) PE1':
+      PIN_NUMBER='(3,0,0,0)';
+      PINUSE='UNSPEC';
+    '(XCK0/AIN0) PE2':
+      PIN_NUMBER='(4,0,0,0)';
+      PINUSE='UNSPEC';
+    '(OC3A/AIN1) PE3':
+      PIN_NUMBER='(5,0,0,0)';
+      PINUSE='UNSPEC';
+    '(OC3B/INT4) PE4':
+      PIN_NUMBER='(6,0,0,0)';
+      PINUSE='UNSPEC';
+    '(OC3C/INT5) PE5':
+      PIN_NUMBER='(7,0,0,0)';
+      PINUSE='UNSPEC';
+    '(T3/INT6) PE6':
+      PIN_NUMBER='(8,0,0,0)';
+      PINUSE='UNSPEC';
+    '(SS) PB0':
+      PIN_NUMBER='(16,0,0,0)';
+      PINUSE='UNSPEC';
+    '(SCK) PB1':
+      PIN_NUMBER='(15,0,0,0)';
+      PINUSE='UNSPEC';
+    '(OC1B) PB6':
+      PIN_NUMBER='(14,0,0,0)';
+      PINUSE='UNSPEC';
+    '(OC1A) PB5':
+      PIN_NUMBER='(13,0,0,0)';
+      PINUSE='UNSPEC';
+    '(OC0) PB4':
+      PIN_NUMBER='(12,0,0,0)';
+      PINUSE='UNSPEC';
+    '(MOSI) PB2':
+      PIN_NUMBER='(11,0,0,0)';
+      PINUSE='UNSPEC';
+    '(MISO) PB3':
+      PIN_NUMBER='(10,0,0,0)';
+      PINUSE='UNSPEC';
+    '(ICP3/INT7) PE7':
+      PIN_NUMBER='(9,0,0,0)';
+      PINUSE='UNSPEC';
+    '(OC2/OC1C) PB7':
+      PIN_NUMBER='(0,17,0,0)';
+      PINUSE='UNSPEC';
+    'TOSC2/PG3':
+      PIN_NUMBER='(0,18,0,0)';
+      PINUSE='UNSPEC';
+    'TOSC1/PG4':
+      PIN_NUMBER='(0,19,0,0)';
+      PINUSE='UNSPEC';
+    'RESET':
+      PIN_NUMBER='(0,20,0,0)';
+      PINUSE='UNSPEC';
+    'VCC':
+      PIN_NUMBER='(0,21,0,64)';
+      PINUSE='POWER';
+    'GND':
+      PIN_NUMBER='(0,22,0,0)';
+      PINUSE='POWER';
+    'XTAL2':
+      PIN_NUMBER='(0,23,0,0)';
+      PINUSE='UNSPEC';
+    'XTAL1':
+      PIN_NUMBER='(0,24,0,0)';
+      PINUSE='UNSPEC';
+    '(XCK1) PD5':
+      PIN_NUMBER='(0,32,0,0)';
+      PINUSE='UNSPEC';
+    '(TXD1/INT3) PD3':
+      PIN_NUMBER='(0,31,0,0)';
+      PINUSE='UNSPEC';
+    '(T2) PD7':
+      PIN_NUMBER='(0,30,0,0)';
+      PINUSE='UNSPEC';
+    '(T1) PD6':
+      PIN_NUMBER='(0,29,0,0)';
+      PINUSE='UNSPEC';
+    '(SDA/INT1) PD1':
+      PIN_NUMBER='(0,28,0,0)';
+      PINUSE='UNSPEC';
+    '(SCL/INT0) PD0':
+      PIN_NUMBER='(0,27,0,0)';
+      PINUSE='UNSPEC';
+    '(RXD1/INT2) PD2':
+      PIN_NUMBER='(0,26,0,0)';
+      PINUSE='UNSPEC';
+    '(ICP1) PD4':
+      PIN_NUMBER='(0,25,0,0)';
+      PINUSE='UNSPEC';
+    'PA3 (AD3)':
+      PIN_NUMBER='(0,0,33,0)';
+      PINUSE='UNSPEC';
+    'PA4 (AD4)':
+      PIN_NUMBER='(0,0,34,0)';
+      PINUSE='UNSPEC';
+    'PA5 (AD5)':
+      PIN_NUMBER='(0,0,35,0)';
+      PINUSE='UNSPEC';
+    'PA6 (AD6)':
+      PIN_NUMBER='(0,0,36,0)';
+      PINUSE='UNSPEC';
+    'PA7 (AD7)':
+      PIN_NUMBER='(0,0,37,0)';
+      PINUSE='UNSPEC';
+    'PG2(ALE)':
+      PIN_NUMBER='(0,0,38,0)';
+      PINUSE='UNSPEC';
+    'PC7 (A15)':
+      PIN_NUMBER='(0,0,39,0)';
+      PINUSE='UNSPEC';
+    'PC6 (A14)':
+      PIN_NUMBER='(0,0,40,0)';
+      PINUSE='UNSPEC';
+    'PG1(RD)':
+      PIN_NUMBER='(0,0,48,0)';
+      PINUSE='UNSPEC';
+    'PG0(WR)':
+      PIN_NUMBER='(0,0,47,0)';
+      PINUSE='UNSPEC';
+    'PC5 (A13)':
+      PIN_NUMBER='(0,0,46,0)';
+      PINUSE='UNSPEC';
+    'PC4 (A12)':
+      PIN_NUMBER='(0,0,45,0)';
+      PINUSE='UNSPEC';
+    'PC3 (A11)':
+      PIN_NUMBER='(0,0,44,0)';
+      PINUSE='UNSPEC';
+    'PC2 (A10)':
+      PIN_NUMBER='(0,0,43,0)';
+      PINUSE='UNSPEC';
+    'PC1 (A9)':
+      PIN_NUMBER='(0,0,42,0)';
+      PINUSE='UNSPEC';
+    'PC0 (A8)':
+      PIN_NUMBER='(0,0,41,0)';
+      PINUSE='UNSPEC';
+    'AVCC':
+      PIN_NUMBER='(0,0,0,49)';
+      PINUSE='POWER';
+    'GND#50':
+      PIN_NUMBER='(0,0,0,50)';
+      PINUSE='POWER';
+    'AREF':
+      PIN_NUMBER='(0,0,0,51)';
+      PINUSE='POWER';
+    'PF0 (ADC0)':
+      PIN_NUMBER='(0,0,0,52)';
+      PINUSE='UNSPEC';
+    'PF1 (ADC1)':
+      PIN_NUMBER='(0,0,0,53)';
+      PINUSE='UNSPEC';
+    'PF2 (ADC2)':
+      PIN_NUMBER='(0,0,0,54)';
+      PINUSE='UNSPEC';
+    'PF3 (ADC3)':
+      PIN_NUMBER='(0,0,0,55)';
+      PINUSE='UNSPEC';
+    'PF4 (ADC4/TCK)':
+      PIN_NUMBER='(0,0,0,56)';
+      PINUSE='UNSPEC';
+    'PF7 (ADC7/TDI)':
+      PIN_NUMBER='(0,0,0,63)';
+      PINUSE='UNSPEC';
+    'PF6 (ADC6/TDO)':
+      PIN_NUMBER='(0,0,0,62)';
+      PINUSE='UNSPEC';
+    'PF5 (ADC5/TMS)':
+      PIN_NUMBER='(0,0,0,61)';
+      PINUSE='UNSPEC';
+    'PA2 (AD2)':
+      PIN_NUMBER='(0,0,0,60)';
+      PINUSE='UNSPEC';
+    'PA1 (AD1)':
+      PIN_NUMBER='(0,0,0,59)';
+      PINUSE='UNSPEC';
+    'PA0 (AD0)':
+      PIN_NUMBER='(0,0,0,58)';
+      PINUSE='UNSPEC';
+    'GND#57':
+      PIN_NUMBER='(0,0,0,57)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    PART_NAME='Atmega128';
+    JEDEC_TYPE='atmega128';
+    SWAP_INFO='(S1+S2+S3+S4)';
+    VALUE='Atmega128';
+  end_body;
+end_primitive;
+END.

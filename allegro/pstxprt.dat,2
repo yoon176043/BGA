@@ -1,0 +1,50 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.5.0 p001Jul-16-2019 at 17:34:00 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='0716_LIB';
+ POST_TIME='Apr 21 2011 10:02:30';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ J1 'DIPSOC-14X2_CAP_ATMEGA328_DIP_D':;
+
+SECTION_NUMBER 1
+ '@0716_LIB.SCHEMATIC1(SCH_1):INS785@MECHANICAL.DIPSOC-14X2_CAP.NORMAL(CHIPS)':
+ C_PATH='@\0716_lib\.schematic1(sch_1):ins785@mechanical.\dipsoc-14x2_cap.normal\(chips)',
+ P_PATH='@\0716_lib\.schematic1(sch_1):page1_ins785@mechanical.\dipsoc-14x2_cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'DIPSOC-16X2_ATMEGA328_TQFP_DIPS':;
+
+SECTION_NUMBER 1
+ '@0716_LIB.SCHEMATIC1(SCH_1):INS1053@MECHANICAL.DIPSOC-16X2.NORMAL(CHIPS)':
+ C_PATH='@\0716_lib\.schematic1(sch_1):ins1053@mechanical.\dipsoc-16x2.normal\(chips)',
+ P_PATH='@\0716_lib\.schematic1(sch_1):page1_ins1053@mechanical.\dipsoc-16x2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'DIPSOC-14X2/SM_ATMEGA328P_TQFP_':;
+
+SECTION_NUMBER 1
+ '@0716_LIB.SCHEMATIC1(SCH_1):INS1192@MECHANICAL.DIPSOC-14X2/SM.NORMAL(CHIPS)':
+ C_PATH='@\0716_lib\.schematic1(sch_1):ins1192@mechanical.\dipsoc-14x2/sm.normal\(chips)',
+ P_PATH='@\0716_lib\.schematic1(sch_1):page1_ins1192@mechanical.\dipsoc-14x2/sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'ATMEGA128_ATMEGA128_(S1+S2+S3+S':;
+
+SECTION_NUMBER 1
+ '@0716_LIB.SCHEMATIC1(SCH_1):INS54@MY_LIB.ATMEGA128-1.NORMAL(CHIPS)':
+ C_PATH='@\0716_lib\.schematic1(sch_1):ins54@my_lib.\atmega128-1.normal\(chips)',
+ P_PATH='@\0716_lib\.schematic1(sch_1):page1_ins54@my_lib.\atmega128-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-1';
+
+END.

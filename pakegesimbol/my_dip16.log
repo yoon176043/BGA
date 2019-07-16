@@ -1,0 +1,25 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : my_dip16.dra                                  )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Tue Jul 16 14:12:56 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/user/Desktop/work/PCB_Lib/pakegesimbol
+    Name      = my_dip16.psm
+    User      = user
+    Machine   = USER-PC
+
+
+Create symbol started.
+ 
+ Duplicate pin number 9. 
+ WARNING(SPMHA1-298): Create symbol duplicate pin numbers. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+

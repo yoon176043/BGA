@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : atmega128.dra                                 )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Tue Jul 16 16:09:31 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/user/Desktop/work/PCB_Lib/pakegesimbol
+    Name      = atmega128.psm
+    User      = user
+    Machine   = USER-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

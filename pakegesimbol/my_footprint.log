@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : My_Footprint.dra                              )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Tue Jul 16 14:33:47 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/user/Desktop/work/PCB_Lib/pakegesimbol
+    Name      = my_footprint.psm
+    User      = user
+    Machine   = USER-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
