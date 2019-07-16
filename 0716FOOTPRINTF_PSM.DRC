@@ -1,0 +1,246 @@
+Date and Time : 07/16/19 22:33:16
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING(ORCAP-1831): Unconnected pin J1,1 
+                    SCHEMATIC1, PAGE1  (1.30, 5.80) 
+WARNING(ORCAP-1831): Unconnected pin J1,2 
+                    SCHEMATIC1, PAGE1  (1.30, 5.90) 
+WARNING(ORCAP-1831): Unconnected pin J1,3 
+                    SCHEMATIC1, PAGE1  (1.30, 6.00) 
+WARNING(ORCAP-1831): Unconnected pin J1,4 
+                    SCHEMATIC1, PAGE1  (1.30, 6.10) 
+WARNING(ORCAP-1831): Unconnected pin J1,5 
+                    SCHEMATIC1, PAGE1  (2.20, 6.10) 
+WARNING(ORCAP-1831): Unconnected pin J1,6 
+                    SCHEMATIC1, PAGE1  (2.20, 6.00) 
+WARNING(ORCAP-1831): Unconnected pin J1,7 
+                    SCHEMATIC1, PAGE1  (2.20, 5.90) 
+WARNING(ORCAP-1831): Unconnected pin J1,8 
+                    SCHEMATIC1, PAGE1  (2.20, 5.80) 
+WARNING(ORCAP-1831): Unconnected pin U2,PEN 
+                    SCHEMATIC1, PAGE1  (5.10, 3.80) 
+WARNING(ORCAP-1831): Unconnected pin U2,RXD0/(PDI) PE0 
+                    SCHEMATIC1, PAGE1  (5.10, 3.90) 
+WARNING(ORCAP-1831): Unconnected pin U2,(TXD0/PDO) PE1 
+                    SCHEMATIC1, PAGE1  (5.10, 4.00) 
+WARNING(ORCAP-1831): Unconnected pin U2,(XCK0/AIN0) PE2 
+                    SCHEMATIC1, PAGE1  (5.10, 4.10) 
+WARNING(ORCAP-1831): Unconnected pin U2,(OC3A/AIN1) PE3 
+                    SCHEMATIC1, PAGE1  (5.10, 4.20) 
+WARNING(ORCAP-1831): Unconnected pin U2,(OC3B/INT4) PE4 
+                    SCHEMATIC1, PAGE1  (5.10, 4.30) 
+WARNING(ORCAP-1831): Unconnected pin U2,(OC3C/INT5) PE5 
+                    SCHEMATIC1, PAGE1  (5.10, 4.40) 
+WARNING(ORCAP-1831): Unconnected pin U2,(T3/INT6) PE6 
+                    SCHEMATIC1, PAGE1  (5.10, 4.50) 
+WARNING(ORCAP-1831): Unconnected pin U2,(SS) PB0 
+                    SCHEMATIC1, PAGE1  (7.10, 3.80) 
+WARNING(ORCAP-1831): Unconnected pin U2,(SCK) PB1 
+                    SCHEMATIC1, PAGE1  (7.10, 3.90) 
+WARNING(ORCAP-1831): Unconnected pin U2,(OC1B) PB6 
+                    SCHEMATIC1, PAGE1  (7.10, 4.00) 
+WARNING(ORCAP-1831): Unconnected pin U2,(OC1A) PB5 
+                    SCHEMATIC1, PAGE1  (7.10, 4.10) 
+WARNING(ORCAP-1831): Unconnected pin U2,(OC0) PB4 
+                    SCHEMATIC1, PAGE1  (7.10, 4.20) 
+WARNING(ORCAP-1831): Unconnected pin U2,(MOSI) PB2 
+                    SCHEMATIC1, PAGE1  (7.10, 4.30) 
+WARNING(ORCAP-1831): Unconnected pin U2,(MISO) PB3 
+                    SCHEMATIC1, PAGE1  (7.10, 4.40) 
+WARNING(ORCAP-1831): Unconnected pin U2,(ICP3/INT7) PE7 
+                    SCHEMATIC1, PAGE1  (7.10, 4.50) 
+WARNING(ORCAP-1831): Unconnected pin U4,1 
+                    SCHEMATIC1, PAGE1  (1.40, 3.60) 
+WARNING(ORCAP-1831): Unconnected pin U4,2 
+                    SCHEMATIC1, PAGE1  (1.40, 3.70) 
+WARNING(ORCAP-1831): Unconnected pin U4,3 
+                    SCHEMATIC1, PAGE1  (1.40, 3.80) 
+WARNING(ORCAP-1831): Unconnected pin U4,4 
+                    SCHEMATIC1, PAGE1  (1.40, 3.90) 
+WARNING(ORCAP-1831): Unconnected pin U4,5 
+                    SCHEMATIC1, PAGE1  (1.40, 4.00) 
+WARNING(ORCAP-1831): Unconnected pin U4,6 
+                    SCHEMATIC1, PAGE1  (1.40, 4.10) 
+WARNING(ORCAP-1831): Unconnected pin U4,9 
+                    SCHEMATIC1, PAGE1  (1.40, 4.40) 
+WARNING(ORCAP-1831): Unconnected pin U4,10 
+                    SCHEMATIC1, PAGE1  (1.40, 4.50) 
+WARNING(ORCAP-1831): Unconnected pin U4,11 
+                    SCHEMATIC1, PAGE1  (1.40, 4.60) 
+WARNING(ORCAP-1831): Unconnected pin U4,12 
+                    SCHEMATIC1, PAGE1  (1.40, 4.70) 
+WARNING(ORCAP-1831): Unconnected pin U4,13 
+                    SCHEMATIC1, PAGE1  (1.40, 4.80) 
+WARNING(ORCAP-1831): Unconnected pin U4,14 
+                    SCHEMATIC1, PAGE1  (1.40, 4.90) 
+WARNING(ORCAP-1831): Unconnected pin U4,28 
+                    SCHEMATIC1, PAGE1  (2.50, 3.60) 
+WARNING(ORCAP-1831): Unconnected pin U4,27 
+                    SCHEMATIC1, PAGE1  (2.50, 3.70) 
+WARNING(ORCAP-1831): Unconnected pin U4,26 
+                    SCHEMATIC1, PAGE1  (2.50, 3.80) 
+WARNING(ORCAP-1831): Unconnected pin U4,23 
+                    SCHEMATIC1, PAGE1  (2.50, 4.10) 
+WARNING(ORCAP-1831): Unconnected pin U4,22 
+                    SCHEMATIC1, PAGE1  (2.50, 4.20) 
+WARNING(ORCAP-1831): Unconnected pin U4,19 
+                    SCHEMATIC1, PAGE1  (2.50, 4.50) 
+WARNING(ORCAP-1831): Unconnected pin U4,16 
+                    SCHEMATIC1, PAGE1  (2.50, 4.80) 
+WARNING(ORCAP-1831): Unconnected pin U4,15 
+                    SCHEMATIC1, PAGE1  (2.50, 4.90) 
+WARNING(ORCAP-1831): Unconnected pin J2,1 
+                    SCHEMATIC1, PAGE1  (3.30, 5.30) 
+WARNING(ORCAP-1831): Unconnected pin J2,2 
+                    SCHEMATIC1, PAGE1  (3.30, 5.40) 
+WARNING(ORCAP-1831): Unconnected pin J2,3 
+                    SCHEMATIC1, PAGE1  (3.30, 5.50) 
+WARNING(ORCAP-1831): Unconnected pin J2,4 
+                    SCHEMATIC1, PAGE1  (3.30, 5.60) 
+WARNING(ORCAP-1831): Unconnected pin J2,5 
+                    SCHEMATIC1, PAGE1  (3.30, 5.70) 
+WARNING(ORCAP-1831): Unconnected pin J2,6 
+                    SCHEMATIC1, PAGE1  (3.30, 5.80) 
+WARNING(ORCAP-1831): Unconnected pin J2,7 
+                    SCHEMATIC1, PAGE1  (3.30, 5.90) 
+WARNING(ORCAP-1831): Unconnected pin J2,8 
+                    SCHEMATIC1, PAGE1  (3.30, 6.00) 
+WARNING(ORCAP-1831): Unconnected pin J2,16 
+                    SCHEMATIC1, PAGE1  (4.30, 5.30) 
+WARNING(ORCAP-1831): Unconnected pin J2,15 
+                    SCHEMATIC1, PAGE1  (4.30, 5.40) 
+WARNING(ORCAP-1831): Unconnected pin J2,14 
+                    SCHEMATIC1, PAGE1  (4.30, 5.50) 
+WARNING(ORCAP-1831): Unconnected pin J2,13 
+                    SCHEMATIC1, PAGE1  (4.30, 5.60) 
+WARNING(ORCAP-1831): Unconnected pin J2,12 
+                    SCHEMATIC1, PAGE1  (4.30, 5.70) 
+WARNING(ORCAP-1831): Unconnected pin J2,11 
+                    SCHEMATIC1, PAGE1  (4.30, 5.80) 
+WARNING(ORCAP-1831): Unconnected pin J2,10 
+                    SCHEMATIC1, PAGE1  (4.30, 5.90) 
+WARNING(ORCAP-1831): Unconnected pin J2,9 
+                    SCHEMATIC1, PAGE1  (4.30, 6.00) 
+WARNING(ORCAP-1831): Unconnected pin U1,1 
+                    SCHEMATIC1, PAGE1  (1.20, 0.90) 
+WARNING(ORCAP-1831): Unconnected pin U1,2 
+                    SCHEMATIC1, PAGE1  (1.20, 1.00) 
+WARNING(ORCAP-1831): Unconnected pin U1,3 
+                    SCHEMATIC1, PAGE1  (1.20, 1.10) 
+WARNING(ORCAP-1831): Unconnected pin U1,4 
+                    SCHEMATIC1, PAGE1  (1.20, 1.20) 
+WARNING(ORCAP-1831): Unconnected pin U1,5 
+                    SCHEMATIC1, PAGE1  (1.20, 1.30) 
+WARNING(ORCAP-1831): Unconnected pin U1,6 
+                    SCHEMATIC1, PAGE1  (1.20, 1.40) 
+WARNING(ORCAP-1831): Unconnected pin U1,9 
+                    SCHEMATIC1, PAGE1  (1.20, 1.70) 
+WARNING(ORCAP-1831): Unconnected pin U1,10 
+                    SCHEMATIC1, PAGE1  (1.20, 1.80) 
+WARNING(ORCAP-1831): Unconnected pin U1,11 
+                    SCHEMATIC1, PAGE1  (1.20, 1.90) 
+WARNING(ORCAP-1831): Unconnected pin U1,12 
+                    SCHEMATIC1, PAGE1  (1.20, 2.00) 
+WARNING(ORCAP-1831): Unconnected pin U1,13 
+                    SCHEMATIC1, PAGE1  (1.20, 2.10) 
+WARNING(ORCAP-1831): Unconnected pin U1,14 
+                    SCHEMATIC1, PAGE1  (1.20, 2.20) 
+WARNING(ORCAP-1831): Unconnected pin U1,28 
+                    SCHEMATIC1, PAGE1  (2.40, 0.90) 
+WARNING(ORCAP-1831): Unconnected pin U1,27 
+                    SCHEMATIC1, PAGE1  (2.40, 1.00) 
+WARNING(ORCAP-1831): Unconnected pin U1,26 
+                    SCHEMATIC1, PAGE1  (2.40, 1.10) 
+WARNING(ORCAP-1831): Unconnected pin U1,25 
+                    SCHEMATIC1, PAGE1  (2.40, 1.20) 
+WARNING(ORCAP-1831): Unconnected pin U1,24 
+                    SCHEMATIC1, PAGE1  (2.40, 1.30) 
+WARNING(ORCAP-1831): Unconnected pin U1,23 
+                    SCHEMATIC1, PAGE1  (2.40, 1.40) 
+WARNING(ORCAP-1831): Unconnected pin U1,19 
+                    SCHEMATIC1, PAGE1  (2.40, 1.80) 
+WARNING(ORCAP-1831): Unconnected pin U1,18 
+                    SCHEMATIC1, PAGE1  (2.40, 1.90) 
+WARNING(ORCAP-1831): Unconnected pin U1,17 
+                    SCHEMATIC1, PAGE1  (2.40, 2.00) 
+WARNING(ORCAP-1831): Unconnected pin U1,16 
+                    SCHEMATIC1, PAGE1  (2.40, 2.10) 
+WARNING(ORCAP-1831): Unconnected pin U1,15 
+                    SCHEMATIC1, PAGE1  (2.40, 2.20) 
+WARNING(ORCAP-1831): Unconnected pin U3,1 
+                    SCHEMATIC1, PAGE1  (5.50, 1.40) 
+WARNING(ORCAP-1831): Unconnected pin U3,2 
+                    SCHEMATIC1, PAGE1  (5.50, 1.50) 
+WARNING(ORCAP-1831): Unconnected pin U3,7 
+                    SCHEMATIC1, PAGE1  (5.50, 2.00) 
+WARNING(ORCAP-1831): Unconnected pin U3,8 
+                    SCHEMATIC1, PAGE1  (5.50, 2.10) 
+WARNING(ORCAP-1831): Unconnected pin U3,9 
+                    SCHEMATIC1, PAGE1  (6.00, 2.50) 
+WARNING(ORCAP-1831): Unconnected pin U3,10 
+                    SCHEMATIC1, PAGE1  (6.10, 2.50) 
+WARNING(ORCAP-1831): Unconnected pin U3,11 
+                    SCHEMATIC1, PAGE1  (6.20, 2.50) 
+WARNING(ORCAP-1831): Unconnected pin U3,12 
+                    SCHEMATIC1, PAGE1  (6.30, 2.50) 
+WARNING(ORCAP-1831): Unconnected pin U3,13 
+                    SCHEMATIC1, PAGE1  (6.40, 2.50) 
+WARNING(ORCAP-1831): Unconnected pin U3,14 
+                    SCHEMATIC1, PAGE1  (6.50, 2.50) 
+WARNING(ORCAP-1831): Unconnected pin U3,15 
+                    SCHEMATIC1, PAGE1  (6.60, 2.50) 
+WARNING(ORCAP-1831): Unconnected pin U3,16 
+                    SCHEMATIC1, PAGE1  (6.70, 2.50) 
+WARNING(ORCAP-1831): Unconnected pin U3,24 
+                    SCHEMATIC1, PAGE1  (7.20, 1.40) 
+WARNING(ORCAP-1831): Unconnected pin U3,23 
+                    SCHEMATIC1, PAGE1  (7.20, 1.50) 
+WARNING(ORCAP-1831): Unconnected pin U3,22 
+                    SCHEMATIC1, PAGE1  (7.20, 1.60) 
+WARNING(ORCAP-1831): Unconnected pin U3,19 
+                    SCHEMATIC1, PAGE1  (7.20, 1.90) 
+WARNING(ORCAP-1831): Unconnected pin U3,17 
+                    SCHEMATIC1, PAGE1  (7.20, 2.10) 
+WARNING(ORCAP-1831): Unconnected pin U3,32 
+                    SCHEMATIC1, PAGE1  (6.00, 1.00) 
+WARNING(ORCAP-1831): Unconnected pin U3,31 
+                    SCHEMATIC1, PAGE1  (6.10, 1.00) 
+WARNING(ORCAP-1831): Unconnected pin U3,30 
+                    SCHEMATIC1, PAGE1  (6.20, 1.00) 
+WARNING(ORCAP-1831): Unconnected pin U3,29 
+                    SCHEMATIC1, PAGE1  (6.30, 1.00) 
+WARNING(ORCAP-1831): Unconnected pin U3,28 
+                    SCHEMATIC1, PAGE1  (6.40, 1.00) 
+WARNING(ORCAP-1831): Unconnected pin U3,27 
+                    SCHEMATIC1, PAGE1  (6.50, 1.00) 
+WARNING(ORCAP-1831): Unconnected pin U3,26 
+                    SCHEMATIC1, PAGE1  (6.60, 1.00) 
+WARNING(ORCAP-1831): Unconnected pin U3,25 
+                    SCHEMATIC1, PAGE1  (6.70, 1.00) 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections 22 
+                    SCHEMATIC1, PAGE1  (2.40, 1.50) 
+WARNING(ORCAP-1600): Net has fewer than two connections 5 
+                    SCHEMATIC1, PAGE1  (5.50, 1.80) 
+WARNING(ORCAP-1600): Net has fewer than two connections 3 
+                    SCHEMATIC1, PAGE1  (5.50, 1.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections 4 
+                    SCHEMATIC1, PAGE1  (5.50, 1.70) 
+WARNING(ORCAP-1600): Net has fewer than two connections 6 
+                    SCHEMATIC1, PAGE1  (5.50, 1.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections 8 
+                    SCHEMATIC1, PAGE1  (1.40, 4.30) 
+WARNING(ORCAP-1600): Net has fewer than two connections 7 
+                    SCHEMATIC1, PAGE1  (1.40, 4.20) 
+WARNING(ORCAP-1600): Net has fewer than two connections 25 
+                    SCHEMATIC1, PAGE1  (2.50, 3.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections 24 
+                    SCHEMATIC1, PAGE1  (2.50, 4.00) 
+WARNING(ORCAP-1600): Net has fewer than two connections 17 
+                    SCHEMATIC1, PAGE1  (2.50, 4.70) 
+
+Checking For Unconnected Bus Nets
