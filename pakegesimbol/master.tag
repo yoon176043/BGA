@@ -1,1 +1,1 @@
-atmega328p_TQFP.dra
+Atmega2560.dra

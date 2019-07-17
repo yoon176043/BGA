@@ -399,4 +399,97 @@
 \i (01:16:16) FORM sym_wizard wiz_next  
 \i (01:16:18) FORM sym_wizard wiz_finish  
 \w (01:16:18) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\t (01:16:18) Grids are drawn 10.160, 10.160 apart for enh
+\t (01:16:18) Grids are drawn 10.160, 10.160 apart for enhanced viewability.
+\i (01:16:18) setwindow pcb
+\i (01:16:18) trapsize 4792
+\t (01:16:18) Performing DRC...
+\t (01:16:18) No DRC errors detected.
+\i (01:16:18) trapsize 4792
+\i (01:16:18) trapsize 677
+\i (01:16:18) trapsize 135
+\i (01:16:18) trapsize 135
+\i (01:16:21) fillin yes 
+\i (01:16:23) fillin yes 
+\t (01:16:23) Creating package symbol 'C:/Cadence/SPB_16.5/tools/capture/My_lib/allegro/pbga_full_psm.psm'.
+\t (01:16:23) Starting Create symbol...
+\i (01:16:23) generaledit 
+\i (01:16:37) save_as 
+\i (01:17:33) fillin "PBGA_full_psm.dra"
+\t (01:17:33) Symbol 'pbga_full_psm.psm' created.
+\i (01:17:33) generaledit 
+\i (01:18:45) save_as 
+\i (01:19:02) fillin "menu_cancel"
+\i (01:19:02) generaledit 
+\i (01:27:34) open 
+\i (01:28:44) fillin "C:\Users\user\Desktop\work\orcad\samples\layout_samples_r02\layout_samples_r02\demoa\demoa2.brd"
+\i (01:28:44) cd "C:\Users\user\Desktop\work\orcad\samples\layout_samples_r02\layout_samples_r02\demoa"
+\t (01:28:44) Opening existing design...
+\e (01:28:44) ERROR(SPMHOD-29): Unable to open design because database was saved under a newer release and contains features not compatible with this version of software. See the newer release's documentation for any conversion capability.
+\e (01:28:44) ERROR(SPMHOD-29): Unable to open design because database was saved under a newer release and contains features not compatible with this version of software. See the newer release's documentation for any conversion capability.
+\i (01:28:45) fillin confirm
+\t (01:28:45) Starting new design...
+\i (01:28:46) trapsize 637
+\i (01:28:46) trapsize 624
+\i (01:28:46) trapsize 637
+\i (01:28:46) trapsize 943
+\i (01:28:48) fillin "demoa2.brd"
+\t (01:28:48) Opening existing design...
+\e (01:28:48) ERROR(SPMHOD-29): Unable to open design because database was saved under a newer release and contains features not compatible with this version of software. See the newer release's documentation for any conversion capability.
+\e (01:28:48) ERROR(SPMHOD-29): Unable to open design because database was saved under a newer release and contains features not compatible with this version of software. See the newer release's documentation for any conversion capability.
+\i (01:28:48) fillin confirm
+\t (01:28:48) Starting new design...
+\i (01:28:48) trapsize 943
+\i (01:28:57) fillin "demoa.dsn"
+\t (01:28:57) Opening existing design...
+\e (01:28:57) ERROR(SPMHDB-238): The database is corrupted. It may have been copied from a different architecture using ASCII mode ... copy using binary mode.
+\e (01:28:57) ERROR(SPMHDB-238): The database is corrupted. It may have been copied from a different architecture using ASCII mode ... copy using binary mode.
+\i (01:28:58) fillin confirm
+\t (01:28:58) Starting new design...
+\i (01:28:58) trapsize 943
+\i (01:29:03) fillin "demoa2.max"
+\t (01:29:03) Opening existing design...
+\e (01:29:03) ERROR(SPMHDB-238): The database is corrupted. It may have been copied from a different architecture using ASCII mode ... copy using binary mode.
+\e (01:29:03) ERROR(SPMHDB-238): The database is corrupted. It may have been copied from a different architecture using ASCII mode ... copy using binary mode.
+\i (01:29:04) fillin confirm
+\t (01:29:04) Starting new design...
+\i (01:29:04) trapsize 943
+\i (01:29:18) fillin "C:\Users\user\Desktop\work\orcad\samples\layout_samples_r02\layout_samples_r02\demosr\board1.brd"
+\i (01:29:18) cd "C:\Users\user\Desktop\work\orcad\samples\layout_samples_r02\layout_samples_r02\demosr"
+\t (01:29:18) Opening existing design...
+\e (01:29:18) ERROR(SPMHOD-29): Unable to open design because database was saved under a newer release and contains features not compatible with this version of software. See the newer release's documentation for any conversion capability.
+\e (01:29:18) ERROR(SPMHOD-29): Unable to open design because database was saved under a newer release and contains features not compatible with this version of software. See the newer release's documentation for any conversion capability.
+\i (01:29:31) fillin confirm
+\t (01:29:31) Starting new design...
+\i (01:29:31) trapsize 943
+\i (01:29:33) fillin "menu_cancel"
+\i (01:29:33) generaledit 
+\i (01:33:16) orcad in 
+\i (01:33:18) setwindow form.orcad_in
+\i (01:33:18) FORM orcad_in filename_browse  
+\i (01:33:44) fillin "C:\Users\user\Desktop\work\orcad\samples\layout_samples_r02\layout_samples_r02\demoa\demoa2.max"
+\i (01:33:55) FORM orcad_in execute  
+\t (01:33:55) Starting Performing Translation...
+\w (01:33:57) WARNING(SPMHGE-269): l2a had warnings, use Viewlog to review the log file.
+\i (01:34:00) setwindow text
+\i (01:34:00) close 
+\i (01:34:02) setwindow form.orcad_in
+\i (01:34:02) FORM orcad_in viewlog  
+\i (01:34:03) setwindow text
+\i (01:34:03) close 
+\i (01:34:33) setwindow pcb
+\i (01:34:33) pick grid 2037.7 13018.9
+\t (01:34:33) last pick:  2000.0  13000.0
+\i (01:34:34) setwindow form.orcad_in
+\i (01:34:34) FORM orcad_in cancel  
+\i (01:34:34) setwindow pcb
+\i (01:34:34) generaledit 
+\i (01:34:38) open 
+\i (01:35:11) fillin "C:\Users\user\Desktop\work\orcad\samples\layout_samples_r02\layout_samples_r02\demoa\demoa2.brd"
+\i (01:35:11) cd "C:\Users\user\Desktop\work\orcad\samples\layout_samples_r02\layout_samples_r02\demoa"
+\t (01:35:11) Opening existing design...
+\w (01:35:11) WARNING(SPMHDB-214): OrCAD PCB Designer Professional w/PSpice opening an Allegro XL design.
+\w (01:35:11) WARNING(SPMHDB-213): DRC set to "out of date". This product supports a different DRC set than last product used on drawing.
+\w (01:35:11) WARNING(SPMHOD-33): Design was last saved by a higher capability product (Allegro XL). There may be constraints and other design data that may be ignored at the tool's current license levels.
+\i (01:35:12) fillin confirm
+\i (01:35:12) trapsize 298
+\t (01:35:12)     Journal end - Wed Jul 17 10:52:30 2019
