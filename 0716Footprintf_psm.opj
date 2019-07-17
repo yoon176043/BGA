@@ -93,29 +93,22 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\My_lib\0716footprintf_psm.dsn")
-      (Path "Design Resources"
-         "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\My_lib\0716footprintf_psm.dsn"
-         "SCHEMATIC1")
-      (Path "Design Resources"
-         "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\My_lib\0716footprintf_psm.dsn"
-         "Design Cache")
-      (Select "Design Resources"
-         "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\My_lib\0716footprintf_psm.dsn"
-         "SCHEMATIC1" "PAGE1"))
+      (Path "Design Resources" ".\0716footprintf_psm.dsn")
+      (Path "Design Resources" ".\0716footprintf_psm.dsn" "SCHEMATIC1")
+      (Path "Design Resources" ".\0716footprintf_psm.dsn" "Design Cache")
+      (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 476"))
+        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 476"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 150 1796 150 664")
-        (Scroll "19 44")
-        (Zoom "200")
+        (Placement "44 2 3 -1 -1 -8 -30 150 1796 150 664")
+        (Scroll "-288 3")
+        (Zoom "100")
         (Occurrence "/"))
       (Path "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\MY_LIB\0716FOOTPRINTF_PSM.DSN")
       (Schematic "SCHEMATIC1")

@@ -1,1 +1,1 @@
-Footprinf_psm.brd
+PBGA_full_psm.dra

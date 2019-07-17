@@ -1,214 +1,402 @@
-\t (00:00:01) allegro 16.5 P003 (v16-5-13C) i86
-\t (00:00:01)     Journal start - Tue Jul 16 21:16:03 2019
-\t (00:00:01)         Host=USER-PC User=user Pid=3028 CPUs=4
-\t (00:00:01) 
-\t (00:00:03) Opening existing design...
-\d (00:00:03) Database opened: C:/Cadence/SPB_16.5/tools/capture/My_lib/allegro/0716_lib.brd
-\i (00:00:03) trapsize 6086
-\i (00:00:04) trapsize 5977
-\i (00:00:04) trapsize 6104
-\i (00:00:04) trapsize 6104
-\i (00:00:04) generaledit 
-\i (00:00:09) add connect 
-\t (00:00:09) Pick first element.
-\i (00:00:11) zoom in 1 
-\i (00:00:11) setwindow pcb
-\i (00:00:11) zoom in 12240.74 16042.20
-\i (00:00:11) trapsize 3052
-\i (00:00:13) zoom in 1 
-\i (00:00:13) setwindow pcb
-\i (00:00:13) zoom in 12271.27 14998.36
-\i (00:00:13) trapsize 1526
-\i (00:00:18) place manual 
-\i (00:00:20) setwindow form.plc_manual
-\i (00:00:20) FORM plc_manual tree 'MULTISEL YES' J3 'Components by refdes' 
-\w (00:00:20) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\t (00:00:20) Placing J3 / DIPSOC-14X2/SM_ATMEGA328P_TQFP_ / ATMEGA328P_TQFP on Top.
-\i (00:00:20) FORM plc_manual tree  J3 'Components by refdes' 
-\i (00:00:22) setwindow pcb
-\i (00:00:22) pick grid 11148.07 15422.61
-\t (00:00:22) last pick:  11100.00  15400.00
-\e (00:00:22) ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
-\t (00:00:22) Placing J3 / DIPSOC-14X2/SM_ATMEGA328P_TQFP_ / ATMEGA328P_TQFP on Top.
-\i (00:00:24) zoom in 1 
-\i (00:00:24) setwindow pcb
-\i (00:00:24) zoom in 11221.32 15428.72
-\i (00:00:24) trapsize 763
-\i (00:00:24) zoom out 1 
-\i (00:00:24) setwindow pcb
-\i (00:00:24) zoom out 11593.69 15334.10
-\i (00:00:24) trapsize 1526
-\i (00:00:25) zoom in 1 
-\i (00:00:25) setwindow pcb
-\i (00:00:25) zoom in 11557.06 15520.28
-\i (00:00:25) trapsize 763
-\i (00:00:25) zoom out 1 
-\i (00:00:25) setwindow pcb
-\i (00:00:25) zoom out 11563.17 15521.81
-\i (00:00:25) trapsize 1526
-\i (00:00:25) zoom out 1 
-\i (00:00:25) setwindow pcb
-\i (00:00:25) zoom out 11563.16 15521.81
-\i (00:00:25) trapsize 3052
-\i (00:00:27) setwindow form.plc_manual
-\i (00:00:27) FORM plc_manual tree 'MULTISEL YES' J3 'Components by refdes' 
-\t (00:00:27) Placing J3 / DIPSOC-14X2/SM_ATMEGA328P_TQFP_ / ATMEGA328P_TQFP on Top.
-\i (00:00:31) setwindow pcb
-\i (00:00:31) pick grid 11245.74 16284.84
-\t (00:00:31) last pick:  11200.00  16300.00
-\e (00:00:31) ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
-\t (00:00:31) Placing J3 / DIPSOC-14X2/SM_ATMEGA328P_TQFP_ / ATMEGA328P_TQFP on Top.
-\i (00:00:33) setwindow form.plc_manual
-\i (00:00:33) FORM plc_manual tree 'MULTISEL YES' J3 'Components by refdes' 
-\t (00:00:33) Placing J3 / DIPSOC-14X2/SM_ATMEGA328P_TQFP_ / ATMEGA328P_TQFP on Top.
-\i (00:00:33) setwindow pcb
-\i (00:00:33) pick grid 11703.57 16126.13
-\t (00:00:33) last pick:  11700.00  16100.00
-\e (00:00:33) ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
-\t (00:00:33) Placing J3 / DIPSOC-14X2/SM_ATMEGA328P_TQFP_ / ATMEGA328P_TQFP on Top.
-\i (00:00:37) setwindow form.plc_manual
-\i (00:00:37) FORM plc_manual tree 'MULTISEL YES' J3 'Components by refdes' 
-\t (00:00:37) Placing J3 / DIPSOC-14X2/SM_ATMEGA328P_TQFP_ / ATMEGA328P_TQFP on Top.
-\i (00:00:38) setwindow pcb
-\i (00:00:38) pick grid 11642.52 16028.46
-\t (00:00:38) last pick:  11600.00  16000.00
-\e (00:00:38) ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
-\t (00:00:38) Placing J3 / DIPSOC-14X2/SM_ATMEGA328P_TQFP_ / ATMEGA328P_TQFP on Top.
-\i (00:00:39) Esc 
-\i (00:00:41) setwindow form.plc_manual
-\i (00:00:41) FORM plc_manual cancel  
-\i (00:00:41) setwindow pcb
-\i (00:00:41) generaledit 
-\i (00:00:42) zoom in 1 
+\t (00:00:06) allegro 16.5 P003 (v16-5-13C) i86
+\t (00:00:06)     Journal start - Wed Jul 17 09:17:25 2019
+\t (00:00:06)         Host=USER-PC User=user Pid=2460 CPUs=4
+\t (00:00:06) 
+\t (00:00:08) Opening existing design...
+\d (00:00:09) Database opened: C:/Cadence/SPB_16.5/tools/capture/My_lib/allegro/Footprinf_psm.brd
+\i (00:00:10) trapsize 581
+\i (00:00:10) trapsize 571
+\i (00:00:10) trapsize 583
+\i (00:00:10) trapsize 583
+\i (00:00:11) generaledit 
+\i (00:00:13) new 
+\i (00:00:31) newdrawfillin "PBGA_psm.dra" "Package Symbol (Wizard)"
+\t (00:00:31) Starting new design...
+\i (00:00:31) trapsize 901
+\i (00:00:32) trapsize 882
+\i (00:00:32) trapsize 901
+\i (00:00:32) trapsize 1165
+\i (00:00:32) trapsize 1165
+\i (00:00:32) package symbol wizard 
+\i (00:00:32) generaledit 
+   (00:00:38) Loading cmds.cxt 
+   (00:00:38) Loading axlcore.cxt 
+\i (00:00:38) setwindow form.sym_wizard
+\i (00:00:38) FORM sym_wizard bga YES 
+\i (00:00:40) FORM sym_wizard wiz_next  
+\i (00:00:41) FORM sym_wizard load_template  
+\t (00:00:41) Opening existing design...
+\i (00:00:42) fillin yes 
+\t (00:00:42) Grids are drawn 400, 400 apart for enhanced viewability.
 \i (00:00:42) setwindow pcb
-\i (00:00:42) zoom in 11947.74 15857.54
-\i (00:00:42) trapsize 1526
-\i (00:00:42) zoom out 1 
-\i (00:00:42) setwindow pcb
-\i (00:00:42) zoom out 11795.13 15894.17
-\i (00:00:42) trapsize 3052
-\i (00:00:42) zoom out 1 
-\i (00:00:42) setwindow pcb
-\i (00:00:42) zoom out 11776.82 15912.48
-\i (00:00:42) trapsize 6104
-\i (00:00:43) zoom in 1 
-\i (00:00:43) setwindow pcb
-\i (00:00:43) zoom in 11776.82 16095.62
-\i (00:00:43) trapsize 3052
-\i (00:00:44) zoom in 1 
-\i (00:00:44) setwindow pcb
-\i (00:00:44) zoom in 12161.39 14117.82
-\i (00:00:44) trapsize 1526
-\i (00:00:44) zoom in 1 
-\i (00:00:44) setwindow pcb
-\i (00:00:44) zoom in 12164.44 14126.97
-\i (00:00:44) trapsize 763
-\i (00:00:44) zoom out 1 
-\i (00:00:44) setwindow pcb
-\i (00:00:44) zoom out 12135.45 14178.86
-\i (00:00:44) trapsize 1526
-\i (00:00:44) zoom in 1 
-\i (00:00:44) setwindow pcb
-\i (00:00:44) zoom in 11641.00 15067.04
-\i (00:00:44) trapsize 763
-\i (00:00:45) zoom out 1 
-\i (00:00:45) setwindow pcb
-\i (00:00:45) zoom out 11756.99 14865.60
-\i (00:00:45) trapsize 1526
-\i (00:00:46) add connect 
-\t (00:00:46) Pick first element.
-\i (00:00:48) pick grid 11842.45 14746.56
-\t (00:00:48) last pick:  11850.00  14750.00
-\t (00:00:48) last pick:  11859.96  14714.96
-\t (00:00:48) last pick:  11859.96  14714.96
-\i (00:00:49) zoom in 1 
-\i (00:00:49) setwindow pcb
-\i (00:00:49) zoom in 11839.40 15213.54
-\i (00:00:49) trapsize 763
-\i (00:00:50) zoom in 1 
-\i (00:00:50) setwindow pcb
-\i (00:00:50) zoom in 11814.99 15251.69
-\i (00:00:50) trapsize 382
-\i (00:00:50) zoom in 1 
-\i (00:00:50) setwindow pcb
-\i (00:00:50) zoom in 11814.99 15254.74
-\i (00:00:50) trapsize 191
-\i (00:00:50) zoom out 1 
-\i (00:00:50) setwindow pcb
-\i (00:00:50) zoom out 11814.99 15257.42
-\i (00:00:50) trapsize 382
-\i (00:00:50) zoom out 1 
-\i (00:00:50) setwindow pcb
-\i (00:00:50) zoom out 11814.99 15257.42
-\i (00:00:50) trapsize 763
-\i (00:00:50) zoom out 1 
-\i (00:00:50) setwindow pcb
-\i (00:00:50) zoom out 11814.99 15257.42
-\i (00:00:50) trapsize 1526
-\i (00:00:50) zoom out 1 
-\i (00:00:50) setwindow pcb
-\i (00:00:50) zoom out 11815.00 15257.42
-\i (00:00:50) trapsize 3052
-\i (00:00:51) zoom out 1 
-\i (00:00:51) setwindow pcb
-\i (00:00:51) zoom out 11406.00 15672.51
-\i (00:00:51) trapsize 6104
-\i (00:00:51) zoom out 1 
-\i (00:00:51) setwindow pcb
-\i (00:00:51) zoom out 11393.80 15672.51
-\i (00:00:51) trapsize 12209
-\i (00:00:52) zoom in 1 
-\i (00:00:52) setwindow pcb
-\i (00:00:52) zoom in 13307.44 20046.61
-\i (00:00:52) trapsize 6104
-\i (00:00:52) zoom in 1 
-\i (00:00:52) setwindow pcb
-\i (00:00:52) zoom in 11781.36 18129.86
-\i (00:00:52) trapsize 3052
-\i (00:00:53) zoom in 1 
-\i (00:00:53) setwindow pcb
-\i (00:00:53) zoom in 11299.12 16524.43
-\i (00:00:53) trapsize 1526
-\i (00:00:56) zoom out 1 
-\i (00:00:56) setwindow pcb
-\i (00:00:56) zoom out 11015.27 17110.44
-\i (00:00:56) trapsize 3052
-\i (00:00:56) zoom out 1 
-\i (00:00:56) setwindow pcb
-\i (00:00:56) zoom out 11003.06 17104.34
-\i (00:00:56) trapsize 6104
-\i (00:00:56) zoom out 1 
-\i (00:00:56) setwindow pcb
-\i (00:00:56) zoom out 10661.21 17043.30
-\i (00:00:56) trapsize 12209
-\i (00:00:56) zoom in 1 
-\i (00:00:56) setwindow pcb
-\i (00:00:56) zoom in 4883.46 14308.55
-\i (00:00:56) trapsize 6104
-\i (00:00:57) zoom in 1 
-\i (00:00:57) setwindow pcb
-\i (00:00:57) zoom in 10145.39 16054.39
-\i (00:00:57) trapsize 3052
-\i (00:00:57) zoom in 1 
-\i (00:00:57) setwindow pcb
-\i (00:00:57) zoom in 10145.39 16060.50
-\i (00:00:57) trapsize 1526
-\i (00:00:58) zoom in 1 
-\i (00:00:58) setwindow pcb
-\i (00:00:58) zoom in 10133.19 16023.87
-\i (00:00:58) trapsize 763
-\i (00:00:59) pick grid 9962.27 16005.56
-\t (00:00:59) last pick:  9950.00  16000.00
-\t (00:00:59) DRC error(s) created.
-\i (00:01:01) pick grid 10914.55 15947.57
-\t (00:01:01) last pick:  10925.00  15950.00
-\t (00:01:01) No DRC errors detected.
-\i (00:01:01) pick grid 10586.44 15508.06
-\t (00:01:01) last pick:  10575.00  15500.00
-\t (00:01:01) No DRC errors detected.
-\i (00:01:02) add connect 
-\t (00:01:02) Pick first element.
-\i (00:01:04) exit 
-\e (00:01:04) Do you want to save the changes you made to 0716_lib.brd?
-\i (00:01:05) fillin no 
-\t (00:01:06)     Journal end - Tue Jul 16 21:17:08 2019
+\i (00:00:42) trapsize 189
+\d (00:00:43) Database opened: C:/Cadence/SPB_16.5/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (00:00:43) setwindow form.sym_wizard
+\i (00:00:43) FORM sym_wizard wiz_next  
+\i (00:00:46) FORM sym_wizard pack_units Millimeter 
+\i (00:00:48) FORM sym_wizard pack_units_create Millimeter 
+\i (00:00:50) FORM sym_wizard wiz_next  
+\i (00:03:04) FORM sym_wizard bga_md 14 
+\i (00:03:11) FORM sym_wizard bga_me 14 
+\i (00:03:12) FORM sym_wizard wiz_next  
+\i (00:04:16) FORM sym_wizard wiz_next  
+\i (00:04:30) FORM sym_wizard wiz_back  
+\i (00:05:10) FORM sym_wizard wiz_next  
+\i (00:05:31) FORM sym_wizard pga_ev 15.000 
+\i (00:05:37) FORM sym_wizard pga_width 15.000 
+\i (00:05:41) FORM sym_wizard pga_len 15.000 
+\i (00:06:40) FORM sym_wizard pga_ev 2.540 
+\i (00:07:12) FORM sym_wizard wiz_back  
+\i (00:07:13) FORM sym_wizard wiz_back  
+\i (00:07:16) FORM sym_wizard bga_md 16 
+\i (00:07:22) FORM sym_wizard bga_me 16 
+\i (00:07:22) FORM sym_wizard pin_circumference YES 
+\i (00:07:23) FORM sym_wizard pin_grid YES 
+\i (00:07:25) FORM sym_wizard wiz_next  
+\i (00:07:29) FORM sym_wizard wiz_next  
+\i (00:08:23) FORM sym_wizard pga_width 16.800 
+\i (00:08:48) FORM sym_wizard pga_len 16.800 
+\i (00:08:48) FORM sym_wizard wiz_next  
+\i (00:08:49) FORM sym_wizard wiz_back  
+\i (00:14:30) FORM sym_wizard pga_ev 1.000 
+\i (00:14:37) FORM sym_wizard pga_ev 8.000 
+\i (00:14:45) FORM sym_wizard pga_eh 8.000 
+\i (00:14:48) FORM sym_wizard pga_ev 0.800 
+\i (00:14:54) FORM sym_wizard pga_eh 0.800 
+\i (00:14:56) FORM sym_wizard wiz_next  
+\i (00:14:58) FORM sym_wizard default_pad_browse  
+\t (00:15:42) No valid name selected.
+\i (00:15:44) fillin "menu_cancel"
+\i (00:15:46) FORM sym_wizard default_pad_browse  
+\i (00:27:32) fillin "pad.pad"
+\i (00:28:02) FORM sym_wizard default_pad_browse  
+\t (00:28:12) No valid name selected.
+\i (00:29:39) fillin "Pad70cir45d"
+\i (00:29:40) FORM sym_wizard wiz_next  
+\i (00:29:41) FORM sym_wizard wiz_next  
+\i (00:29:43) FORM sym_wizard wiz_finish  
+\w (00:29:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:29:43) Grids are drawn 10.160, 10.160 apart for enhanced viewability.
+\i (00:29:43) setwindow pcb
+\i (00:29:43) trapsize 4792
+\t (00:29:43) Performing DRC...
+\t (00:29:43) No DRC errors detected.
+\w (00:29:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:29:43) trapsize 4792
+\i (00:29:43) trapsize 677
+\i (00:29:43) trapsize 135
+\i (00:29:43) trapsize 135
+\t (00:29:43) Creating package symbol 'C:/Cadence/SPB_16.5/tools/capture/My_lib/allegro/pbga_psm.psm'.
+\t (00:29:43) Starting Create symbol...
+\i (00:29:45) generaledit 
+\i (00:29:47) pick grid 6.477 0.196
+\t (00:29:47) last pick:  7.620  0.000
+\i (00:29:47) zoom in 1 
+\i (00:29:47) setwindow pcb
+\i (00:29:47) zoom in 2.715 -1.346
+\i (00:29:47) trapsize 68
+\i (00:29:50) zoom out 1 
+\i (00:29:50) setwindow pcb
+\i (00:29:50) zoom out 3.405 -0.277
+\i (00:29:50) trapsize 135
+\i (00:29:51) pick grid 12.743 -0.223
+\t (00:29:51) last pick:  12.700  0.000
+\i (00:29:58) pick grid 16.396 9.412
+\t (00:29:58) last pick:  15.240  10.160
+\i (00:30:01) zoom in 1 
+\i (00:30:01) setwindow pcb
+\i (00:30:01) zoom in -6.716 5.379
+\i (00:30:01) trapsize 68
+\i (00:30:04) zoom out 1 
+\i (00:30:04) setwindow pcb
+\i (00:30:04) zoom out -7.149 5.812
+\i (00:30:04) trapsize 135
+\i (00:30:04) zoom out 1 
+\i (00:30:04) setwindow pcb
+\i (00:30:04) zoom out -7.121 5.785
+\i (00:30:04) trapsize 280
+\i (00:30:05) zoom in 1 
+\i (00:30:05) setwindow pcb
+\i (00:30:05) zoom in -23.266 15.803
+\i (00:30:05) trapsize 140
+\i (00:30:06) zoom out 1 
+\i (00:30:06) setwindow pcb
+\i (00:30:06) zoom out 9.597 -3.467
+\i (00:30:06) trapsize 280
+\i (00:30:06) zoom in 1 
+\i (00:30:06) setwindow pcb
+\i (00:30:06) zoom in 13.988 -18.991
+\i (00:30:06) trapsize 140
+\i (00:30:06) zoom out 1 
+\i (00:30:06) setwindow pcb
+\i (00:30:06) zoom out 5.978 -15.382
+\i (00:30:06) trapsize 280
+\i (00:30:07) zoom in 1 
+\i (00:30:07) setwindow pcb
+\i (00:30:07) zoom in 5.709 -4.167
+\i (00:30:07) trapsize 140
+\i (00:30:10) new 
+\e (00:30:10) Do you want to save the changes you made to C:/Cadence/SPB_16.5/tools/capture/My_lib/allegro/PBGA_psm.dra?
+\i (00:30:11) fillin no 
+\i (00:30:34) newdrawfillin "PBGA.dra" "Package Symbol (Wizard)"
+\t (00:30:34) Starting new design...
+\i (00:30:34) trapsize 280
+\i (00:30:34) trapsize 280
+\i (00:30:34) package symbol wizard 
+\i (00:30:34) generaledit 
+\i (00:30:39) setwindow form.sym_wizard
+\i (00:30:39) FORM sym_wizard bga YES 
+\i (00:30:40) FORM sym_wizard wiz_next  
+\i (00:30:42) FORM sym_wizard wiz_next  
+\i (00:30:43) fillin confirm
+\i (00:30:44) FORM sym_wizard load_template  
+\t (00:30:44) Opening existing design...
+\i (00:30:45) fillin yes 
+\t (00:30:45) Grids are drawn 400, 400 apart for enhanced viewability.
+\i (00:30:45) setwindow pcb
+\i (00:30:45) trapsize 189
+\d (00:30:45) Database opened: C:/Cadence/SPB_16.5/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (00:30:46) setwindow form.sym_wizard
+\i (00:30:46) FORM sym_wizard wiz_next  
+\i (00:30:48) FORM sym_wizard pack_units Millimeter 
+\i (00:30:50) FORM sym_wizard pack_units_create Millimeter 
+\i (00:30:51) FORM sym_wizard wiz_next  
+\i (00:30:59) FORM sym_wizard bga_md 16 
+\i (00:31:02) FORM sym_wizard bga_me 16 
+\i (00:32:01) FORM sym_wizard pin_circumference YES 
+\i (00:32:11) FORM sym_wizard pin_grid YES 
+\i (00:32:13) FORM sym_wizard wiz_next  
+\i (00:32:19) FORM sym_wizard pin_numbering_field Number Left Letter Up 
+\i (00:32:24) FORM sym_wizard wiz_next  
+\i (00:33:03) FORM sym_wizard pga_ev 1.000 
+\i (00:33:06) FORM sym_wizard pga_eh 1.000 
+\i (00:33:17) FORM sym_wizard pga_width 17.200 
+\i (00:33:21) FORM sym_wizard pga_len 17.200 
+\i (00:33:21) FORM sym_wizard wiz_next  
+\i (00:33:22) FORM sym_wizard default_pad_browse  
+\t (00:33:28) No valid name selected.
+\i (00:34:10) fillin "Pad30cir20d"
+\i (00:34:12) FORM sym_wizard wiz_next  
+\i (00:34:14) FORM sym_wizard wiz_next  
+\i (00:34:15) FORM sym_wizard wiz_finish  
+\w (00:34:15) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:34:15) Grids are drawn 10.160, 10.160 apart for enhanced viewability.
+\i (00:34:15) setwindow pcb
+\i (00:34:15) trapsize 4792
+\t (00:34:15) Performing DRC...
+\t (00:34:15) No DRC errors detected.
+\w (00:34:15) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:34:15) trapsize 4792
+\i (00:34:15) trapsize 677
+\i (00:34:15) trapsize 135
+\i (00:34:15) trapsize 135
+\t (00:34:15) Creating package symbol 'C:/Cadence/SPB_16.5/tools/capture/My_lib/allegro/pbga.psm'.
+\t (00:34:15) Starting Create symbol...
+\i (00:34:15) generaledit 
+\i (00:34:42) save_as 
+\i (00:36:30) fillin "PBGA_psm.dra"
+\t (00:36:31) Symbol 'pbga_psm.psm' created.
+\i (00:36:31) generaledit 
+\i (00:36:38) new 
+\i (00:36:44) newdrawfillin "menu_cancel"
+\i (00:36:44) generaledit 
+\i (00:39:07) save_as 
+\i (00:39:21) fillin "PBGA_full_psm.dra"
+\t (00:39:21) Symbol 'pbga_full_psm.psm' created.
+\i (00:39:21) generaledit 
+\i (00:39:30) pick grid -3.433 10.504
+\t (00:39:30) last pick:  -2.540  10.160
+\i (00:39:33) new 
+\i (00:42:50) newdrawfillin "PBGA_null_psm.dra" "Package Symbol (Wizard)"
+\t (00:42:50) Starting new design...
+\i (00:42:50) trapsize 286
+\i (00:42:50) trapsize 286
+\i (00:42:50) package symbol wizard 
+\i (00:42:50) generaledit 
+\i (00:42:53) setwindow form.sym_wizard
+\i (00:42:53) FORM sym_wizard bga YES 
+\i (00:42:55) FORM sym_wizard wiz_next  
+\i (00:42:56) FORM sym_wizard load_template  
+\t (00:42:56) Opening existing design...
+\i (00:42:57) fillin yes 
+\t (00:42:57) Grids are drawn 400, 400 apart for enhanced viewability.
+\i (00:42:57) setwindow pcb
+\i (00:42:57) trapsize 189
+\d (00:42:58) Database opened: C:/Cadence/SPB_16.5/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (00:43:00) setwindow form.sym_wizard
+\i (00:43:00) FORM sym_wizard wiz_next  
+\i (00:43:02) FORM sym_wizard pack_units Millimeter 
+\i (00:43:04) FORM sym_wizard pack_units_create Millimeter 
+\i (00:43:06) FORM sym_wizard wiz_next  
+\i (00:43:09) FORM sym_wizard bga_md 16 
+\i (00:43:13) FORM sym_wizard bga_me 16 
+\i (00:43:13) FORM sym_wizard pin_circumference YES 
+\i (00:43:37) FORM sym_wizard pin_circ_inner_levels 6 
+\i (00:46:37) FORM sym_wizard pin_circ_outer_levels 26 
+\i (00:58:17) FORM sym_wizard pin_circ_inner_levels 0 
+\i (00:58:21) FORM sym_wizard pin_circ_outer_levels 4 
+\i (00:58:45) FORM sym_wizard bga_md 20 
+\i (00:58:51) FORM sym_wizard bga_me 20 
+\i (00:58:51) FORM sym_wizard wiz_next  
+\i (00:58:57) FORM sym_wizard wiz_next  
+\i (00:59:25) FORM sym_wizard pga_ev 0.600 
+\i (00:59:43) FORM sym_wizard pga_eh 0.600 
+\i (00:59:52) FORM sym_wizard pga_width 17.000 
+\i (00:59:55) FORM sym_wizard pga_len 17.000 
+\i (01:05:57) FORM sym_wizard pga_ev 1.000 
+\i (01:05:58) FORM sym_wizard pga_eh 1.000 
+\i (01:06:26) FORM sym_wizard pga_ev 1.270 
+\i (01:06:28) FORM sym_wizard pga_eh 1.270 
+\i (01:07:03) FORM sym_wizard pga_width 27.000 
+\i (01:07:08) FORM sym_wizard pga_len 27.000 
+\i (01:07:10) FORM sym_wizard wiz_next  
+\i (01:07:11) FORM sym_wizard default_pad_browse  
+\t (01:08:01) No valid name selected.
+\i (01:09:53) fillin "menu_cancel"
+\i (01:10:06) setwindow pcb
+\i (01:10:06) enved 
+\i (01:10:07) generaledit 
+\e (01:10:07) ERROR(SPMHDB-20): Buffer not initialized.
+\i (01:10:10) setwindow form.prfedit
+\i (01:10:10) FORM prfedit treelist  Library Paths 
+\i (01:10:12) FORM prfedit padpath  
+\i (01:10:46) FORM prfedit apply  
+\i (01:10:54) FORM prfedit psmpath  
+\i (01:11:07) FORM prfedit apply  
+\i (01:11:07) FORM prfedit apply  
+\i (01:11:08) FORM prfedit done  
+\i (01:11:12) setwindow form.sym_wizard
+\i (01:11:12) FORM sym_wizard default_pad_browse  
+\t (01:11:17) No valid name selected.
+\i (01:11:23) fillin "Pbga256_Null"
+\i (01:11:25) FORM sym_wizard wiz_next  
+\i (01:11:26) FORM sym_wizard wiz_next  
+\i (01:11:27) FORM sym_wizard wiz_finish  
+\w (01:11:27) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (01:11:27) Grids are drawn 10.160, 10.160 apart for enhanced viewability.
+\i (01:11:27) setwindow pcb
+\i (01:11:27) trapsize 4792
+\t (01:11:27) Performing DRC...
+\t (01:11:27) No DRC errors detected.
+\i (01:11:27) trapsize 4792
+\i (01:11:27) trapsize 169
+\i (01:11:27) trapsize 158
+\i (01:11:27) trapsize 158
+\t (01:11:27) Creating package symbol 'C:/Cadence/SPB_16.5/tools/capture/My_lib/allegro/pbga_null_psm.psm'.
+\t (01:11:27) Starting Create symbol...
+\i (01:11:27) generaledit 
+\i (01:11:37) save_as 
+\i (01:11:48) fillin "PBGA_null_psm.dra"
+\t (01:11:49) Symbol 'pbga_null_psm.psm' created.
+\i (01:11:49) generaledit 
+\i (01:11:53) new 
+\i (01:12:04) newdrawfillin "PBGA_full_psm.dra" "Package Symbol"
+\t (01:12:04) Starting new design...
+\i (01:12:04) trapsize 449
+\i (01:12:04) trapsize 449
+\i (01:12:04) generaledit 
+\i (01:12:08) new 
+\e (01:12:08) Do you want to save the changes you made to PBGA_full_psm.dra?
+\i (01:12:09) fillin no 
+\i (01:12:21) newdrawfillin "PBGA_full_psm.dra" "Package Symbol (Wizard)"
+\t (01:12:21) Starting new design...
+\i (01:12:21) trapsize 449
+\i (01:12:21) trapsize 449
+\i (01:12:21) package symbol wizard 
+\i (01:12:21) generaledit 
+\i (01:12:23) setwindow form.sym_wizard
+\i (01:12:23) FORM sym_wizard bga YES 
+\i (01:12:23) FORM sym_wizard wiz_next  
+\i (01:12:25) FORM sym_wizard load_template  
+\t (01:12:25) Opening existing design...
+\i (01:12:26) fillin yes 
+\t (01:12:26) Grids are drawn 400, 400 apart for enhanced viewability.
+\i (01:12:26) setwindow pcb
+\i (01:12:26) trapsize 189
+\d (01:12:26) Database opened: C:/Cadence/SPB_16.5/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (01:12:26) setwindow form.sym_wizard
+\i (01:12:26) FORM sym_wizard wiz_next  
+\i (01:12:28) FORM sym_wizard pack_units Millimeter 
+\i (01:12:29) FORM sym_wizard pack_units_create Millimeter 
+\i (01:12:33) FORM sym_wizard wiz_next  
+\i (01:12:39) FORM sym_wizard bga_md 16 
+\i (01:12:40) FORM sym_wizard bga_me 16 
+\i (01:12:42) FORM sym_wizard wiz_next  
+\i (01:12:44) FORM sym_wizard wiz_next  
+\i (01:12:57) FORM sym_wizard pga_ev 0.000 
+\i (01:13:03) FORM sym_wizard pga_width 17.000 
+\i (01:13:05) FORM sym_wizard pga_len 17.000 
+\i (01:13:19) FORM sym_wizard pga_ev 1.270 
+\i (01:13:23) FORM sym_wizard pga_eh 1.270 
+\i (01:13:24) FORM sym_wizard wiz_next  
+\i (01:13:25) FORM sym_wizard default_pad_browse  
+\t (01:13:35) No valid name selected.
+\i (01:13:38) fillin "Pbga256_Full"
+\i (01:13:40) FORM sym_wizard wiz_next  
+\i (01:13:41) FORM sym_wizard wiz_next  
+\i (01:13:42) FORM sym_wizard wiz_finish  
+\w (01:13:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (01:13:42) Grids are drawn 10.160, 10.160 apart for enhanced viewability.
+\i (01:13:42) setwindow pcb
+\i (01:13:42) trapsize 4792
+\t (01:13:42) Performing DRC...
+\t (01:13:42) No DRC errors detected.
+\i (01:13:42) trapsize 4792
+\i (01:13:42) trapsize 677
+\i (01:13:42) trapsize 135
+\i (01:13:42) trapsize 135
+\i (01:13:45) fillin yes 
+\i (01:13:47) fillin no 
+\i (01:13:47) generaledit 
+\i (01:13:59) pick grid -4.961 12.062
+\t (01:13:59) last pick:  -5.080  12.700
+\i (01:14:17) pick grid -9.480 9.545
+\t (01:14:17) last pick:  -10.160  10.160
+\i (01:14:38) new 
+\i (01:14:45) newdrawfillin "PBGA_full_psm.dra" "Package Symbol"
+\t (01:14:45) Starting new design...
+\i (01:14:45) trapsize 324
+\i (01:14:45) trapsize 324
+\i (01:14:46) generaledit 
+\i (01:14:48) new 
+\e (01:14:48) Do you want to save the changes you made to PBGA_full_psm.dra?
+\i (01:14:50) fillin yes 
+\e (01:14:50) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (01:15:00) newdrawfillin "PBGA_full_psm.dra" "Package Symbol (Wizard)"
+\t (01:15:00) Starting new design...
+\i (01:15:00) trapsize 324
+\i (01:15:00) trapsize 324
+\i (01:15:00) package symbol wizard 
+\i (01:15:00) generaledit 
+\i (01:15:02) setwindow form.sym_wizard
+\i (01:15:02) FORM sym_wizard bga YES 
+\i (01:15:02) FORM sym_wizard wiz_next  
+\i (01:15:04) FORM sym_wizard load_template  
+\t (01:15:04) Opening existing design...
+\i (01:15:05) fillin yes 
+\t (01:15:05) Grids are drawn 400, 400 apart for enhanced viewability.
+\i (01:15:05) setwindow pcb
+\i (01:15:05) trapsize 189
+\d (01:15:05) Database opened: C:/Cadence/SPB_16.5/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (01:15:06) setwindow form.sym_wizard
+\i (01:15:06) FORM sym_wizard wiz_next  
+\i (01:15:08) FORM sym_wizard pack_units Millimeter 
+\i (01:15:09) FORM sym_wizard pack_units_create Millimeter 
+\i (01:15:10) FORM sym_wizard wiz_next  
+\i (01:15:13) FORM sym_wizard bga_md 16 
+\i (01:15:17) FORM sym_wizard bga_me 16 
+\i (01:15:17) FORM sym_wizard wiz_next  
+\i (01:15:20) FORM sym_wizard pin_number_zero_pad YES 
+\i (01:15:20) FORM sym_wizard wiz_next  
+\i (01:15:54) FORM sym_wizard pga_ev 1.000 
+\i (01:15:55) FORM sym_wizard pga_eh 1.000 
+\i (01:15:59) FORM sym_wizard pga_width 17.000 
+\i (01:16:02) FORM sym_wizard pga_len 17.000 
+\i (01:16:04) FORM sym_wizard wiz_next  
+\i (01:16:05) FORM sym_wizard default_pad_browse  
+\i (01:16:14) fillin "Pbga256_Full"
+\i (01:16:15) FORM sym_wizard wiz_next  
+\i (01:16:16) FORM sym_wizard wiz_next  
+\i (01:16:18) FORM sym_wizard wiz_finish  
+\w (01:16:18) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (01:16:18) Grids are drawn 10.160, 10.160 apart for enh
